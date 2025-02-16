@@ -1,7 +1,7 @@
 ![Product cover](https://raw.githubusercontent.com/Smu1zel/SharperImageKeychainWin11/refs/heads/master/res/screenshot.jpg)
 
 # Intro
-If you've tried to use the software for these products on any remotely modern version of Windows, you've probably ran into this.
+If you've tried to use the software for these products on any remotely modern version of Windows, you've probably ran into this.  
 ![This comes up even if it's plugged in](https://raw.githubusercontent.com/Smu1zel/SharperImageKeychainWin11/refs/heads/master/res/cover.jpg)
 
 Despite playing around with compatibility settings, nothing works. What could the issue be?
@@ -17,7 +17,7 @@ Turns out, the software doesn't seem to work on anything newer than XP, *except*
 5. Right click the executable.
 6. Click Properties.
 7. Click the Compatibility tab.
-8. Set up as shown:
+8. Set up as shown:  
 	Compatibility mode: Windows Vista  
 	[✓] Run this program as an administrator.
 9. Click OK.
