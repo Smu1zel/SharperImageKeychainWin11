@@ -1,8 +1,8 @@
-![Product cover](https://raw.githubusercontent.com/Smu1zel/SharperImageKeychainWin11/refs/heads/master/res/screenshot.jpg)
+![Product cover](https://raw.githubusercontent.com/Smu1zel/SharperImageKeychainWin11/refs/heads/master/res/cover.jpg)
 
 # Intro
 If you've tried to use the software for these products on any remotely modern version of Windows, you've probably ran into this.  
-![This comes up even if it's plugged in](https://raw.githubusercontent.com/Smu1zel/SharperImageKeychainWin11/refs/heads/master/res/cover.jpg)
+![This comes up even if it's plugged in](https://raw.githubusercontent.com/Smu1zel/SharperImageKeychainWin11/refs/heads/master/res/screenshot.jpg)
 
 Despite playing around with compatibility settings, nothing works. What could the issue be?
 
