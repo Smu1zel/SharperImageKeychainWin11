@@ -18,7 +18,7 @@ Turns out, the software doesn't seem to work on anything newer than XP, *except*
 6. Click Properties.
 7. Click the Compatibility tab.
 8. Set up as shown:
-	Compatibility mode: Windows Vista
+	Compatibility mode: Windows Vista  
 	[✓] Run this program as an administrator.
 9. Click OK.
 10. Plug in your keychain and start the program. Everything should just work. Enjoy. 
